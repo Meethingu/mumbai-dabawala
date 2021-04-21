@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492320874331",
+    "project_id": "mumbai-dabbawala-97938",
+    "storage_bucket": "mumbai-dabbawala-97938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492320874331:android:15868ab074fc0a8089c47e",
+        "android_client_info": {
+          "package_name": "com.example.Mumbai_Dabbawala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492320874331-do5cje5pg5boalrp9q72l9b0m8vhpmic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhOU7L3vJ8QnNH3U37rxUydS7EtXvkT1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492320874331-do5cje5pg5boalrp9q72l9b0m8vhpmic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
